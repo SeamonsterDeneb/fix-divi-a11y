@@ -1,5 +1,9 @@
 # fix-divi-a11y
 
+Version 1.4.2
+================================
+* Updated fix-divi-custom-mobile-menu.js to account for multiple mobile menus on a page
+
 Version 1.4.1
 ===================================
 * Removed aria-expanded attribute from tabs
